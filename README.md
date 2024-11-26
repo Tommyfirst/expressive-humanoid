@@ -1,4 +1,4 @@
-<h1 align="center">Expressive Whole-Body Control for <br> Humanoid Robots</h1>
+<h1 align="center">Expressive Whole-Body Control for <br> Humanoid Robots by csh</h1>
 
 <p align="center">
     <a href="https://chengxuxin.github.io/"><strong>Xuxin Cheng*</strong></a>
